@@ -1,3 +1,6 @@
+# Run application
+- node index.js
+
 # Dockerize node application
 1. docker build -t api-mysql .
 2. docker images
